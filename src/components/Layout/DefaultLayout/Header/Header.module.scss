@@ -1,0 +1,22 @@
+.wrapper{
+    height: 120px;
+    box-shadow: 0px 1px 1px rgb(0 0 0 / 12%);
+    display: flex;
+    justify-content: center;
+}
+.header-firt{
+    width: 1000px;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+}
+
+.logo{
+    width: 100%;
+}
+
+.logo img {
+    height: 100%;
+    object-fit: cover;
+}
