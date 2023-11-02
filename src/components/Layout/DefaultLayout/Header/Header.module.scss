@@ -32,11 +32,11 @@
             margin: 0 10px;
             display: flex;
             align-items: center;
-            color: var(--primary-text);
-            &:hover{
+            &:hover a{
                 color: var(--primary-color);
              }
             a{
+                color: var(--primary-text);
                 display: flex;
                 align-items: center;
                 font-size: 1.4rem;
@@ -72,9 +72,13 @@
     justify-content: center;
     justify-content: space-between;
 
+    .seach-result,
+    .seach{
+        width: 45rem;
+    }
+
     .seach{
         position: relative;
-        width: 45rem;
         height: 4rem;
         border-radius: var(--seach-boder-radius);
         background-color: var(--primary-background-color);
