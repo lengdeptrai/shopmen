@@ -77,10 +77,10 @@ function Header() {
                     </div>
                 </Tippy>
                 <div className={cx('cart')}>
-                    <a>
+                    <Link to='/cart'>
                         <FontAwesomeIcon className={cx('cart-icon')} icon={faCartShopping} />
                         <span>0</span>
-                    </a>
+                    </Link>
                 </div>
             </div>
         </header>

@@ -69,6 +69,7 @@
         box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
         border: 1px solid transparent;
         margin: 0 1rem;
+        transition: .5s;
 
 
         .item_sale_off_img {
@@ -118,8 +119,8 @@
 
         .item-sale {
             position: absolute;
-            width: 40px;
-            height: 40px;
+            width: 4rem;
+            height: 4rem;
             right: 0;
             top: 0;
             background-color: rgba(246, 216, 20, 0.8);
@@ -129,14 +130,14 @@
                 display: block;
                 color: red;
                 font-weight: 500;
-                font-size: 14px;
+                font-size: 1.4rem;
             }
 
             span:last-child {
                 display: block;
                 color: #ffffff;
                 font-weight: 500;
-                font-size: 12px;
+                font-size: 1.2rem;
             }
 
             &::after {

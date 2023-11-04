@@ -46,6 +46,107 @@ function SaleProduct() {
                         </div>
                     </Link>
                 </li>
+                <li className={cx('item_sale_off')}>
+                    <Link to='/viewproduct' className={cx('link sale_off')}>
+                        <div className={cx('item_sale_off_img')}>
+                            <img  src="https://giaynhapkhauvugia.com/wp-content/uploads/2020/12/z1970660592636_275cec5b267bbe9b35d9f9cf8abb8aaa.jpg" alt="" />
+                        </div>
+                        <div className={cx('item_sale_off_content')}>
+                            <div className={cx('item_sale_off_content-des')}>
+                                Giày CONVERSE Cổ Cao
+                            </div>
+                            <div className={cx('item_sale_off_prices')}>
+                                <span className={cx('price-old')}>289.000đ</span>
+                                <span className={cx('price-sale')}>188.000đ</span>
+                            </div>
+                        </div>
+                        <div className={cx('item-sale')}>
+                            <span>35%</span>
+                            <span>GIẢM</span>
+                        </div>
+                    </Link>
+                </li>
+                <li className={cx('item_sale_off')}>
+                    <Link to='/viewproduct' className={cx('link sale_off')}>
+                        <div className={cx('item_sale_off_img')}>
+                            <img  src="https://giaynhapkhauvugia.com/wp-content/uploads/2020/12/z1970660592636_275cec5b267bbe9b35d9f9cf8abb8aaa.jpg" alt="" />
+                        </div>
+                        <div className={cx('item_sale_off_content')}>
+                            <div className={cx('item_sale_off_content-des')}>
+                                Giày CONVERSE Cổ Cao
+                            </div>
+                            <div className={cx('item_sale_off_prices')}>
+                                <span className={cx('price-old')}>289.000đ</span>
+                                <span className={cx('price-sale')}>188.000đ</span>
+                            </div>
+                        </div>
+                        <div className={cx('item-sale')}>
+                            <span>35%</span>
+                            <span>GIẢM</span>
+                        </div>
+                    </Link>
+                </li>
+                <li className={cx('item_sale_off')}>
+                    <Link to='/viewproduct' className={cx('link sale_off')}>
+                        <div className={cx('item_sale_off_img')}>
+                            <img  src="https://giaynhapkhauvugia.com/wp-content/uploads/2020/12/z1970660592636_275cec5b267bbe9b35d9f9cf8abb8aaa.jpg" alt="" />
+                        </div>
+                        <div className={cx('item_sale_off_content')}>
+                            <div className={cx('item_sale_off_content-des')}>
+                                Giày CONVERSE Cổ Cao
+                            </div>
+                            <div className={cx('item_sale_off_prices')}>
+                                <span className={cx('price-old')}>289.000đ</span>
+                                <span className={cx('price-sale')}>188.000đ</span>
+                            </div>
+                        </div>
+                        <div className={cx('item-sale')}>
+                            <span>35%</span>
+                            <span>GIẢM</span>
+                        </div>
+                    </Link>
+                </li>
+                <li className={cx('item_sale_off')}>
+                    <Link to='/viewproduct' className={cx('link sale_off')}>
+                        <div className={cx('item_sale_off_img')}>
+                            <img  src="https://giaynhapkhauvugia.com/wp-content/uploads/2020/12/z1970660592636_275cec5b267bbe9b35d9f9cf8abb8aaa.jpg" alt="" />
+                        </div>
+                        <div className={cx('item_sale_off_content')}>
+                            <div className={cx('item_sale_off_content-des')}>
+                                Giày CONVERSE Cổ Cao
+                            </div>
+                            <div className={cx('item_sale_off_prices')}>
+                                <span className={cx('price-old')}>289.000đ</span>
+                                <span className={cx('price-sale')}>188.000đ</span>
+                            </div>
+                        </div>
+                        <div className={cx('item-sale')}>
+                            <span>35%</span>
+                            <span>GIẢM</span>
+                        </div>
+                    </Link>
+                </li>
+                <li className={cx('item_sale_off')}>
+                    <Link to='/viewproduct' className={cx('link sale_off')}>
+                        <div className={cx('item_sale_off_img')}>
+                            <img  src="https://giaynhapkhauvugia.com/wp-content/uploads/2020/12/z1970660592636_275cec5b267bbe9b35d9f9cf8abb8aaa.jpg" alt="" />
+                        </div>
+                        <div className={cx('item_sale_off_content')}>
+                            <div className={cx('item_sale_off_content-des')}>
+                                Giày CONVERSE Cổ Cao
+                            </div>
+                            <div className={cx('item_sale_off_prices')}>
+                                <span className={cx('price-old')}>289.000đ</span>
+                                <span className={cx('price-sale')}>188.000đ</span>
+                            </div>
+                        </div>
+                        <div className={cx('item-sale')}>
+                            <span>35%</span>
+                            <span>GIẢM</span>
+                        </div>
+                    </Link>
+                </li>
+                
             </ul>
         </div>
     );
