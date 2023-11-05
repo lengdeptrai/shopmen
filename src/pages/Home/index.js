@@ -1,7 +1,7 @@
 
-import SaleProduct from "~/components/Layout/DefaultLayout/SaleProduct";
-import Slider from "~/components/Layout/DefaultLayout/Slider";
-import TopSellingProduct from "~/components/Layout/DefaultLayout/TopSellingProduct";
+import SaleProduct from "~/components/SaleProduct";
+import Slider from "~/components/Slider";
+import TopSellingProduct from "~/components/TopSellingProduct";
 
 function Home() {
     return (

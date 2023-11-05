@@ -1,5 +1,11 @@
+
+
+import LoginAndRegister from "~/components/LoginAndRegister";
+
 function Login() {
-    return <h2>Login page</h2>
+    return (
+        <LoginAndRegister/>
+    );
 }
 
 export default Login;

@@ -6,6 +6,7 @@
     slider3 : require('~/assets/images/img3.jpg'),
     slider4 : require('~/assets/images/img4.jpg'),
     slider5 : require('~/assets/images/img5.jpg'),
+    backgroundLogin : require('~/assets/images/backgroundLogin.png'),
 }
 
 export default images;
